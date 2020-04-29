@@ -14,3 +14,5 @@
 
 **lab7** - non-lin equations- Newton method
 
+**lab8** - interpolations
+

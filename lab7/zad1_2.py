@@ -47,7 +47,7 @@ def plot_functions(U):
 #
 
 
-def classification(U, step=0.9, thr : "Setting threshold - this is how much computed result might differ from analytic solution" =0.3):
+def classification(U, step=0.1, thr : "Setting threshold - this is how much computed result might differ from analytic solution" =0.3):
     # iterators over x and y
     x_range = arange(U['range']['x'][0], U['range']['x'][1], step)
     y_range = arange(U['range']['y'][0], U['range']['y'][1], step)
