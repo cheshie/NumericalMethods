@@ -16,3 +16,6 @@
 
 **lab8** - interpolations
 
+**lab9** - approximations - due to Curve Fitting existing only in Matlab and no other replacement for PY found - I did this one in matlab (yes, I regret)
+
+**lab10** - numerical derivatives and integrations
